@@ -1,0 +1,5 @@
+{
+  "name": "PhaseFlow AI Task Manager",
+  "description": "A sophisticated multi-phase project management tool that leverages Gemini AI to architect complex project structures and track progress through granular steps.",
+  "requestFramePermissions": []
+}
